@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\PracticeLambdas\PracticeLambdas\bin\Debug\net6.0\PracticeLambdas.exe
+C:\Users\missh\source\repos\CIT195\PracticeLambdas\PracticeLambdas\bin\Debug\net6.0\PracticeLambdas.deps.json
+C:\Users\missh\source\repos\CIT195\PracticeLambdas\PracticeLambdas\bin\Debug\net6.0\PracticeLambdas.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\PracticeLambdas\PracticeLambdas\bin\Debug\net6.0\PracticeLambdas.dll
+C:\Users\missh\source\repos\CIT195\PracticeLambdas\PracticeLambdas\bin\Debug\net6.0\PracticeLambdas.pdb
+C:\Users\missh\source\repos\CIT195\PracticeLambdas\PracticeLambdas\obj\Debug\net6.0\PracticeLambdas.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\PracticeLambdas\PracticeLambdas\obj\Debug\net6.0\PracticeLambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\PracticeLambdas\PracticeLambdas\obj\Debug\net6.0\PracticeLambdas.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\PracticeLambdas\PracticeLambdas\obj\Debug\net6.0\PracticeLambdas.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\PracticeLambdas\PracticeLambdas\obj\Debug\net6.0\PracticeLambdas.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\PracticeLambdas\PracticeLambdas\obj\Debug\net6.0\PracticeLambdas.dll
+C:\Users\missh\source\repos\CIT195\PracticeLambdas\PracticeLambdas\obj\Debug\net6.0\refint\PracticeLambdas.dll
+C:\Users\missh\source\repos\CIT195\PracticeLambdas\PracticeLambdas\obj\Debug\net6.0\PracticeLambdas.pdb
+C:\Users\missh\source\repos\CIT195\PracticeLambdas\PracticeLambdas\obj\Debug\net6.0\PracticeLambdas.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\PracticeLambdas\PracticeLambdas\obj\Debug\net6.0\ref\PracticeLambdas.dll
